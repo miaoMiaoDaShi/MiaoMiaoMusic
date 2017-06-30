@@ -1,0 +1,291 @@
+-- Merging decision tree log ---
+provider#android.support.v4.content.FileProvider
+INJECTED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:23:9-31:20
+	android:authorities
+		INJECTED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml
+manifest
+ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:2:1-92:12
+INJECTED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:2:1-92:12
+INJECTED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:2:1-92:12
+INJECTED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:2:1-92:12
+MERGED from [com.android.support:design:25.3.1] D:\Zcoder\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\05b8c44f6069d9e5a411943e7c56a5da\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:25.3.1] D:\Zcoder\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\8d883a2739c4463ca7bbc18fface7fe5\AndroidManifest.xml:17:1-31:12
+MERGED from [com.zhy:okhttputils:2.6.2] D:\Zcoder\.gradle\caches\transforms-1\files-1.1\okhttputils-2.6.2.aar\65955c9241f64d47e0f944b8fb36da1c\AndroidManifest.xml:2:1-11:12
+MERGED from [me.wcy:lrcview:1.4.2] D:\Zcoder\.gradle\caches\transforms-1\files-1.1\lrcview-1.4.2.aar\e8dd25bf5af447eeadb26c505bbc8606\AndroidManifest.xml:2:1-17:12
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] D:\Zcoder\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\8bd3e01831228c35b71da3c94c48710e\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:25.3.1] D:\Zcoder\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\11318f7210e5ac577e1f40bad04efecb\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:recyclerview-v7:25.3.1] D:\Zcoder\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\4aafde67284ae338669aa7d70a1ef5c5\AndroidManifest.xml:17:1-26:12
+MERGED from [com.android.support:transition:25.3.1] D:\Zcoder\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\93cd780ca6348010a47995eb87cc54f7\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:25.3.1] D:\Zcoder\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\7f768c118d74f8fcc0e974d997ada11f\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:25.3.1] D:\Zcoder\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\86396a81015a5ebad8033a52332a1a01\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.3.1] D:\Zcoder\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\dc483d2b12c1a82fabf2b8d0ddc51172\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.3.1] D:\Zcoder\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\85e60d00281d444cdfdb047600cf21f8\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:25.3.1] D:\Zcoder\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\2efcec0776bc144a6ea60f5ae63450f8\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:25.3.1] D:\Zcoder\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\ec2a36153500a52fd5cea13efb522ef6\AndroidManifest.xml:17:1-31:12
+INJECTED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:2:1-92:12
+INJECTED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:2:1-92:12
+INJECTED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:2:1-92:12
+	package
+		ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:3:5-28
+		INJECTED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml
+		INJECTED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml
+		INJECTED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml
+		INJECTED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:6:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:7:5-76
+	android:name
+		ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:7:22-73
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:8:22-78
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:9:5-84
+	android:name
+		ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:9:22-81
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:10:5-73
+	android:name
+		ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:10:22-70
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:12:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:13:22-76
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:14:5-76
+	android:name
+		ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:14:22-73
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:15:5-75
+	android:name
+		ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:15:22-72
+application
+ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:16:5-90:19
+MERGED from [com.android.support:design:25.3.1] D:\Zcoder\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\05b8c44f6069d9e5a411943e7c56a5da\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:design:25.3.1] D:\Zcoder\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\05b8c44f6069d9e5a411943e7c56a5da\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] D:\Zcoder\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\8d883a2739c4463ca7bbc18fface7fe5\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] D:\Zcoder\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\8d883a2739c4463ca7bbc18fface7fe5\AndroidManifest.xml:29:5-20
+MERGED from [me.wcy:lrcview:1.4.2] D:\Zcoder\.gradle\caches\transforms-1\files-1.1\lrcview-1.4.2.aar\e8dd25bf5af447eeadb26c505bbc8606\AndroidManifest.xml:11:5-15:19
+MERGED from [me.wcy:lrcview:1.4.2] D:\Zcoder\.gradle\caches\transforms-1\files-1.1\lrcview-1.4.2.aar\e8dd25bf5af447eeadb26c505bbc8606\AndroidManifest.xml:11:5-15:19
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] D:\Zcoder\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\8bd3e01831228c35b71da3c94c48710e\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] D:\Zcoder\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\8bd3e01831228c35b71da3c94c48710e\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] D:\Zcoder\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\11318f7210e5ac577e1f40bad04efecb\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] D:\Zcoder\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\11318f7210e5ac577e1f40bad04efecb\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] D:\Zcoder\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\93cd780ca6348010a47995eb87cc54f7\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] D:\Zcoder\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\93cd780ca6348010a47995eb87cc54f7\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] D:\Zcoder\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\7f768c118d74f8fcc0e974d997ada11f\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] D:\Zcoder\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\7f768c118d74f8fcc0e974d997ada11f\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] D:\Zcoder\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\86396a81015a5ebad8033a52332a1a01\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] D:\Zcoder\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\86396a81015a5ebad8033a52332a1a01\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] D:\Zcoder\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\dc483d2b12c1a82fabf2b8d0ddc51172\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] D:\Zcoder\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\dc483d2b12c1a82fabf2b8d0ddc51172\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] D:\Zcoder\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\85e60d00281d444cdfdb047600cf21f8\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] D:\Zcoder\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\85e60d00281d444cdfdb047600cf21f8\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] D:\Zcoder\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\2efcec0776bc144a6ea60f5ae63450f8\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] D:\Zcoder\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\2efcec0776bc144a6ea60f5ae63450f8\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] D:\Zcoder\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\ec2a36153500a52fd5cea13efb522ef6\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] D:\Zcoder\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\ec2a36153500a52fd5cea13efb522ef6\AndroidManifest.xml:29:5-20
+	android:supportsRtl
+		ADDED from [me.wcy:lrcview:1.4.2] D:\Zcoder\.gradle\caches\transforms-1\files-1.1\lrcview-1.4.2.aar\e8dd25bf5af447eeadb26c505bbc8606\AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:20:9-41
+	android:icon
+		ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:19:9-43
+	android:allowBackup
+		ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:18:9-35
+	android:theme
+		ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:21:9-40
+	android:name
+		ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:17:9-53
+meta-data#com.amap.api.v2.apikey
+ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:33:9-35:64
+	android:value
+		ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:35:13-61
+	android:name
+		ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:34:13-50
+service#xxp.xxp.music.service.PlayService
+ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:37:9-69
+	android:name
+		ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:37:18-66
+receiver#xxp.xxp.music.receiver.DownloadReceiver
+ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:39:9-43:20
+	android:name
+		ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:39:19-73
+intent-filter#android.intent.action.DOWNLOAD_COMPLETE
+ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:40:13-42:29
+action#android.intent.action.DOWNLOAD_COMPLETE
+ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:41:17-82
+	android:name
+		ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:41:25-79
+receiver#xxp.xxp.music.receiver.RemoteControlReceiver
+ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:45:9-49:20
+	android:name
+		ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:45:19-78
+intent-filter#android.intent.action.MEDIA_BUTTON
+ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:46:13-48:29
+action#android.intent.action.MEDIA_BUTTON
+ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:47:17-77
+	android:name
+		ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:47:25-74
+receiver#xxp.xxp.music.receiver.StatusBarReceiver
+ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:51:9-55:20
+	android:name
+		ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:51:19-74
+intent-filter#me.wcy.music.STATUS_BAR_ACTIONS
+ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:52:13-54:29
+action#me.wcy.music.STATUS_BAR_ACTIONS
+ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:53:17-74
+	android:name
+		ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:53:25-71
+activity#xxp.xxp.music.activity.SplashActivity
+ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:57:9-65:20
+	android:screenOrientation
+		ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:59:13-49
+	android:name
+		ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:58:13-65
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:60:13-64:29
+action#android.intent.action.MAIN
+ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:61:17-69
+	android:name
+		ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:61:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:63:17-77
+	android:name
+		ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:63:27-74
+activity#xxp.xxp.music.activity.MusicActivity
+ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:66:9-70:45
+	android:screenOrientation
+		ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:69:13-49
+	android:label
+		ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:68:13-45
+	android:launchMode
+		ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:70:13-43
+	android:name
+		ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:67:13-64
+activity#xxp.xxp.music.activity.OnlineMusicActivity
+ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:71:9-73:52
+	android:screenOrientation
+		ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:73:13-49
+	android:name
+		ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:72:13-70
+activity#xxp.xxp.music.activity.ArtistInfoActivity
+ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:74:9-77:52
+	android:screenOrientation
+		ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:77:13-49
+	android:label
+		ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:76:13-48
+	android:name
+		ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:75:13-69
+activity#xxp.xxp.music.activity.SearchMusicActivity
+ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:78:9-81:54
+	android:screenOrientation
+		ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:80:13-49
+	android:theme
+		ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:81:13-51
+	android:name
+		ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:79:13-70
+activity#xxp.xxp.music.activity.SettingActivity
+ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:82:9-85:52
+	android:screenOrientation
+		ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:85:13-49
+	android:label
+		ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:84:13-49
+	android:name
+		ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:83:13-66
+activity#xxp.xxp.music.activity.AboutActivity
+ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:86:9-89:52
+	android:screenOrientation
+		ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:89:13-49
+	android:label
+		ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:88:13-47
+	android:name
+		ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:87:13-64
+uses-sdk
+INJECTED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml
+INJECTED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:25.3.1] D:\Zcoder\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\05b8c44f6069d9e5a411943e7c56a5da\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:25.3.1] D:\Zcoder\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\05b8c44f6069d9e5a411943e7c56a5da\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] D:\Zcoder\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\8d883a2739c4463ca7bbc18fface7fe5\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.3.1] D:\Zcoder\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\8d883a2739c4463ca7bbc18fface7fe5\AndroidManifest.xml:21:5-23:78
+MERGED from [com.zhy:okhttputils:2.6.2] D:\Zcoder\.gradle\caches\transforms-1\files-1.1\okhttputils-2.6.2.aar\65955c9241f64d47e0f944b8fb36da1c\AndroidManifest.xml:7:5-9:41
+MERGED from [com.zhy:okhttputils:2.6.2] D:\Zcoder\.gradle\caches\transforms-1\files-1.1\okhttputils-2.6.2.aar\65955c9241f64d47e0f944b8fb36da1c\AndroidManifest.xml:7:5-9:41
+MERGED from [me.wcy:lrcview:1.4.2] D:\Zcoder\.gradle\caches\transforms-1\files-1.1\lrcview-1.4.2.aar\e8dd25bf5af447eeadb26c505bbc8606\AndroidManifest.xml:7:5-9:41
+MERGED from [me.wcy:lrcview:1.4.2] D:\Zcoder\.gradle\caches\transforms-1\files-1.1\lrcview-1.4.2.aar\e8dd25bf5af447eeadb26c505bbc8606\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] D:\Zcoder\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\8bd3e01831228c35b71da3c94c48710e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] D:\Zcoder\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\8bd3e01831228c35b71da3c94c48710e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] D:\Zcoder\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\11318f7210e5ac577e1f40bad04efecb\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.3.1] D:\Zcoder\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\11318f7210e5ac577e1f40bad04efecb\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] D:\Zcoder\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\4aafde67284ae338669aa7d70a1ef5c5\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] D:\Zcoder\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\4aafde67284ae338669aa7d70a1ef5c5\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] D:\Zcoder\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\93cd780ca6348010a47995eb87cc54f7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:25.3.1] D:\Zcoder\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\93cd780ca6348010a47995eb87cc54f7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] D:\Zcoder\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\7f768c118d74f8fcc0e974d997ada11f\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.3.1] D:\Zcoder\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\7f768c118d74f8fcc0e974d997ada11f\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] D:\Zcoder\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\86396a81015a5ebad8033a52332a1a01\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.3.1] D:\Zcoder\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\86396a81015a5ebad8033a52332a1a01\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] D:\Zcoder\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\dc483d2b12c1a82fabf2b8d0ddc51172\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.3.1] D:\Zcoder\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\dc483d2b12c1a82fabf2b8d0ddc51172\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] D:\Zcoder\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\85e60d00281d444cdfdb047600cf21f8\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.3.1] D:\Zcoder\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\85e60d00281d444cdfdb047600cf21f8\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.3.1] D:\Zcoder\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\2efcec0776bc144a6ea60f5ae63450f8\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.3.1] D:\Zcoder\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\2efcec0776bc144a6ea60f5ae63450f8\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] D:\Zcoder\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\ec2a36153500a52fd5cea13efb522ef6\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] D:\Zcoder\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\ec2a36153500a52fd5cea13efb522ef6\AndroidManifest.xml:21:5-23:58
+INJECTED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml
+INJECTED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] D:\Zcoder\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\05b8c44f6069d9e5a411943e7c56a5da\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml
+		INJECTED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml
+		INJECTED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] D:\Zcoder\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\05b8c44f6069d9e5a411943e7c56a5da\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] D:\Zcoder\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\8d883a2739c4463ca7bbc18fface7fe5\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] D:\Zcoder\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\8d883a2739c4463ca7bbc18fface7fe5\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] D:\Zcoder\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\8bd3e01831228c35b71da3c94c48710e\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] D:\Zcoder\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\8bd3e01831228c35b71da3c94c48710e\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] D:\Zcoder\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\11318f7210e5ac577e1f40bad04efecb\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] D:\Zcoder\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\11318f7210e5ac577e1f40bad04efecb\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] D:\Zcoder\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\4aafde67284ae338669aa7d70a1ef5c5\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] D:\Zcoder\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\4aafde67284ae338669aa7d70a1ef5c5\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] D:\Zcoder\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\93cd780ca6348010a47995eb87cc54f7\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] D:\Zcoder\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\93cd780ca6348010a47995eb87cc54f7\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] D:\Zcoder\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\7f768c118d74f8fcc0e974d997ada11f\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] D:\Zcoder\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\7f768c118d74f8fcc0e974d997ada11f\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] D:\Zcoder\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\86396a81015a5ebad8033a52332a1a01\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] D:\Zcoder\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\86396a81015a5ebad8033a52332a1a01\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] D:\Zcoder\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\dc483d2b12c1a82fabf2b8d0ddc51172\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] D:\Zcoder\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\dc483d2b12c1a82fabf2b8d0ddc51172\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] D:\Zcoder\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\85e60d00281d444cdfdb047600cf21f8\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] D:\Zcoder\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\85e60d00281d444cdfdb047600cf21f8\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] D:\Zcoder\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\2efcec0776bc144a6ea60f5ae63450f8\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] D:\Zcoder\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\2efcec0776bc144a6ea60f5ae63450f8\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] D:\Zcoder\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\ec2a36153500a52fd5cea13efb522ef6\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] D:\Zcoder\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\ec2a36153500a52fd5cea13efb522ef6\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] D:\Zcoder\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\05b8c44f6069d9e5a411943e7c56a5da\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] D:\Zcoder\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\05b8c44f6069d9e5a411943e7c56a5da\AndroidManifest.xml:26:9-47

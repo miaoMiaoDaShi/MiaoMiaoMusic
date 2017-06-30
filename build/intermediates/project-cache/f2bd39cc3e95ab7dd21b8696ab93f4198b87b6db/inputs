@@ -1,0 +1,6 @@
+COMMAND=PREDEX_LIBRARY_TO_DEX_ARCHIVE
+FILE_PATH=E:\MyAndroid\MiaoMiaoMusic\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar
+FILE_HASH=e5728fdebd8dcf954d3b8cb367988209e7db096e
+DX_VERSION=1.13
+JUMBO_MODE=true
+OPTIMIZE=true
