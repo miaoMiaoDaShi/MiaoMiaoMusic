@@ -20,15 +20,16 @@ import xxp.xxp.music.model.Music;
  * Created by Zcoder
  * Email : 1340751953@qq.com
  * Time :  2017/6/16
- * Description :
+ * Description : 文件相关的工具类,比如返回相关的目录
  */
 
 public class FileUtils {
     private static final String MP3 = ".mp3";
     private static final String LRC = ".lrc";
+    private static final String APP_DIR = "MiaoMiaoMusic";
 
     private static String getAppDir() {
-        return Environment.getExternalStorageDirectory() + "/MiaoMiaoMusic";
+        return Environment.getExternalStorageDirectory() + File.separator + APP_DIR;
     }
 
     public static String getMusicDir() {
@@ -57,7 +58,7 @@ public class FileUtils {
     }
 
     public static String getRelativeMusicDir() {
-        String dir = "PonyMusic/Music/";
+        String dir = APP_DIR + File.separator + "Music/";
         return mkdirs(dir);
     }
 
@@ -102,6 +103,11 @@ public class FileUtils {
         return albumFilePath;
     }
 
+    /**
+     * 创建目录
+     * @param dir
+     * @return
+     */
     private static String mkdirs(String dir) {
         File file = new File(dir);
         if (!file.exists()) {
@@ -110,15 +116,32 @@ public class FileUtils {
         return dir;
     }
 
+    /**
+     * 是否存在
+     * @param path 路径
+     * @return
+     */
     private static boolean exists(String path) {
         File file = new File(path);
         return file.exists();
     }
 
+    /**
+     * 获取文件的名字
+     * @param artist 歌手
+     * @param title 标题
+     * @return
+     */
     public static String getMp3FileName(String artist, String title) {
         return getFileName(artist, title) + MP3;
     }
 
+    /**
+     *
+     * @param artist
+     * @param title
+     * @return
+     */
     public static String getLrcFileName(String artist, String title) {
         return getFileName(artist, title) + LRC;
     }
@@ -169,6 +192,11 @@ public class FileUtils {
         return Float.valueOf(mb);
     }
 
+    /**
+     * 保存歌词
+     * @param path
+     * @param content
+     */
     public static void saveLrcFile(String path, String content) {
         try {
             BufferedWriter bw = new BufferedWriter(new FileWriter(path));
