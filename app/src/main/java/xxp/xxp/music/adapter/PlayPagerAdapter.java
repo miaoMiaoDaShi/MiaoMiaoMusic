@@ -10,7 +10,7 @@ import java.util.List;
  * Created by Zcoder
  * Email : 1340751953@qq.com
  * Time :  2017/6/16
- * Description : paly页面
+ * Description : 播放页面的中间可以滑动的那个viewpager适配器
  */
 public class PlayPagerAdapter extends PagerAdapter {
     private List<View> mViews;

@@ -3,9 +3,12 @@ package xxp.xxp.music.service;
 import xxp.xxp.music.model.Music;
 
 /**
- * 播放进度监听器
- * Created by hzwangchenyan on 2015/12/17.
+ * Created by Zcoder
+ * Email : 1340751953@qq.com
+ * Time :  2017/6/16
+ * Description : 播放状态监听接口
  */
+
 public interface OnPlayerEventListener {
     /**
      * 更新进度
@@ -37,5 +40,8 @@ public interface OnPlayerEventListener {
      */
     void onTimer(long remain);
 
+    /**
+     * 音乐列表发生了更新
+     */
     void onMusicListUpdate();
 }

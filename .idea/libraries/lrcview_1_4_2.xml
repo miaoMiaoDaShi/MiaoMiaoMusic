@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="lrcview-1.4.2">
     <CLASSES>
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/lrcview-1.4.2.aar/e8dd25bf5af447eeadb26c505bbc8606/res" />
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/lrcview-1.4.2.aar/e8dd25bf5af447eeadb26c505bbc8606/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.android/build-cache/1b0ce6418937d94f716bcd0a4de19048caf0c212/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/1b0ce6418937d94f716bcd0a4de19048caf0c212/output/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

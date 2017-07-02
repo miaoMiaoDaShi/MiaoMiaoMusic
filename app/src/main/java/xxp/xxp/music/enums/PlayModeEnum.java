@@ -4,7 +4,7 @@ package xxp.xxp.music.enums;
  * Created by Zcoder
  * Email : 1340751953@qq.com
  * Time :  2017/6/16
- * Description :
+ * Description : 播放模式
  */
 
 public enum PlayModeEnum {

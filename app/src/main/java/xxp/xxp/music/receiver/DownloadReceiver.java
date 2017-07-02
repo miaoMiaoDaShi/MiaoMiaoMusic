@@ -16,7 +16,7 @@ import xxp.xxp.music.utils.ToastUtils;
  * Created by Zcoder
  * Email : 1340751953@qq.com
  * Time :  2017/6/16
- * Description :
+ * Description : 下载完成广播接收者
  */
 
 public class DownloadReceiver extends BroadcastReceiver {

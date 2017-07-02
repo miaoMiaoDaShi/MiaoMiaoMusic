@@ -8,25 +8,25 @@ package me.wcy.lrcview;
 
 public final class R {
     public static final class attr {
-        public static final int lrcAnimationDuration = 0x7f0400b6;
-        public static final int lrcCurrentTextColor = 0x7f0400b7;
-        public static final int lrcDividerHeight = 0x7f0400b8;
-        public static final int lrcLabel = 0x7f0400b9;
-        public static final int lrcNormalTextColor = 0x7f0400ba;
-        public static final int lrcPadding = 0x7f0400bb;
-        public static final int lrcTextSize = 0x7f0400bc;
+        public static final int lrcAnimationDuration = 0x7f0100df;
+        public static final int lrcCurrentTextColor = 0x7f0100de;
+        public static final int lrcDividerHeight = 0x7f0100dc;
+        public static final int lrcLabel = 0x7f0100e0;
+        public static final int lrcNormalTextColor = 0x7f0100dd;
+        public static final int lrcPadding = 0x7f0100e1;
+        public static final int lrcTextSize = 0x7f0100db;
     }
     public static final class string {
-        public static final int app_name = 0x7f0e0022;
+        public static final int app_name = 0x7f080024;
     }
     public static final class styleable {
-        public static final int[] LrcView = { 0x7f0400b6, 0x7f0400b7, 0x7f0400b8, 0x7f0400b9, 0x7f0400ba, 0x7f0400bb, 0x7f0400bc };
-        public static final int LrcView_lrcAnimationDuration = 0;
-        public static final int LrcView_lrcCurrentTextColor = 1;
-        public static final int LrcView_lrcDividerHeight = 2;
-        public static final int LrcView_lrcLabel = 3;
-        public static final int LrcView_lrcNormalTextColor = 4;
-        public static final int LrcView_lrcPadding = 5;
-        public static final int LrcView_lrcTextSize = 6;
+        public static final int[] LrcView = { 0x7f0100db, 0x7f0100dc, 0x7f0100dd, 0x7f0100de, 0x7f0100df, 0x7f0100e0, 0x7f0100e1 };
+        public static final int LrcView_lrcAnimationDuration = 4;
+        public static final int LrcView_lrcCurrentTextColor = 3;
+        public static final int LrcView_lrcDividerHeight = 1;
+        public static final int LrcView_lrcLabel = 5;
+        public static final int LrcView_lrcNormalTextColor = 2;
+        public static final int LrcView_lrcPadding = 6;
+        public static final int LrcView_lrcTextSize = 0;
     }
 }

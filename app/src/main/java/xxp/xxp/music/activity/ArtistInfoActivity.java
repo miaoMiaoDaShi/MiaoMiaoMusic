@@ -29,6 +29,13 @@ import xxp.xxp.music.model.ArtistInfo;
 import xxp.xxp.music.utils.ViewUtils;
 import xxp.xxp.music.utils.binding.Bind;
 
+/**
+ * Created by Zcoder
+ * Email : 1340751953@qq.com
+ * Time :  2017/6/16
+ * Description : 歌手信息页面
+ */
+
 public class ArtistInfoActivity extends BaseActivity {
     @Bind(R.id.sv_artist_info)
     private ScrollView svArtistInfo;

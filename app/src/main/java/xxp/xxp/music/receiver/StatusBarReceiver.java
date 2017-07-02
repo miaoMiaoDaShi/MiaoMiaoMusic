@@ -12,11 +12,11 @@ import xxp.xxp.music.service.PlayService;
  * Created by Zcoder
  * Email : 1340751953@qq.com
  * Time :  2017/6/16
- * Description :
+ * Description : 状态栏的按钮广播接收
  */
 
 public class StatusBarReceiver extends BroadcastReceiver {
-    public static final String ACTION_STATUS_BAR = "me.wcy.music.STATUS_BAR_ACTIONS";
+    public static final String ACTION_STATUS_BAR = "status_bar_actions";
     public static final String EXTRA = "extra";
     public static final String EXTRA_NEXT = "next";
     public static final String EXTRA_PLAY_PAUSE = "play_pause";

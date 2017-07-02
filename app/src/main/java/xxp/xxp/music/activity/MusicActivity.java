@@ -38,6 +38,13 @@ import xxp.xxp.music.utils.binding.Bind;
 import xxp.xxp.music.utils.permission.PermissionReq;
 import xxp.xxp.music.utils.permission.PermissionResult;
 
+/**
+ * Created by Zcoder
+ * Email : 1340751953@qq.com
+ * Time :  2017/6/16
+ * Description : 主界面
+ */
+
 public class MusicActivity extends BaseActivity implements View.OnClickListener, OnPlayerEventListener,
         NavigationView.OnNavigationItemSelectedListener, ViewPager.OnPageChangeListener {
     @Bind(R.id.drawer_layout)

@@ -6,7 +6,7 @@ import java.lang.reflect.Field;
  * Created by Zcoder
  * Email : 1340751953@qq.com
  * Time :  2017/6/16
- * Description :
+ * Description : 废弃
  */
 public class KeyStore {
     public static final String BUGLY_APP_ID = "BUGLY_APP_ID";

@@ -29,12 +29,14 @@ import xxp.xxp.music.utils.ToastUtils;
 import xxp.xxp.music.utils.binding.Bind;
 import xxp.xxp.music.utils.permission.PermissionReq;
 import xxp.xxp.music.utils.permission.PermissionResult;
+
 /**
  * Created by Zcoder
  * Email : 1340751953@qq.com
  * Time :  2017/6/16
  * Description : 启动页面
  */
+
 public class SplashActivity extends BaseActivity {
     private static final String SPLASH_FILE_NAME = "splash";
 

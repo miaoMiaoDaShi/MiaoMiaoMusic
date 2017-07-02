@@ -36,7 +36,7 @@ import xxp.xxp.music.utils.binding.Bind;
  * Created by Zcoder
  * Email : 1340751953@qq.com
  * Time :  2017/6/16
- * Description :
+ * Description : 本地歌曲
  */
 
 public class LocalMusicFragment extends BaseFragment implements AdapterView.OnItemClickListener, OnMoreClickListener {

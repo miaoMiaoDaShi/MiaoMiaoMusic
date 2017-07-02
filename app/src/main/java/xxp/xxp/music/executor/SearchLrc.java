@@ -9,9 +9,12 @@ import xxp.xxp.music.model.SearchMusic;
 import xxp.xxp.music.utils.FileUtils;
 
 /**
- * 如果本地歌曲没有歌词则从网络搜索歌词
- * Created by wcy on 2016/4/26.
+ * Created by Zcoder
+ * Email : 1340751953@qq.com
+ * Time :  2017/6/16
+ * Description : 如果本地歌曲没有歌词则从网络搜索歌词
  */
+
 public abstract class SearchLrc implements IExecutor<String> {
     private String artist;
     private String title;

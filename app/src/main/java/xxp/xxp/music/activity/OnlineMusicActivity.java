@@ -45,6 +45,13 @@ import xxp.xxp.music.utils.ViewUtils;
 import xxp.xxp.music.utils.binding.Bind;
 import xxp.xxp.music.widget.AutoLoadListView;
 
+/**
+ * Created by Zcoder
+ * Email : 1340751953@qq.com
+ * Time :  2017/6/16
+ * Description : 点击每个专辑分类进入的页面..比如点击最新歌曲进入的相关的列表页面
+ */
+
 public class OnlineMusicActivity extends BaseActivity implements OnItemClickListener
         , OnMoreClickListener, AutoLoadListView.OnLoadListener {
     private static final int MUSIC_LIST_SIZE = 20;

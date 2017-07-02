@@ -11,7 +11,7 @@ import okhttp3.Response;
  * Created by Zcoder
  * Email : 1340751953@qq.com
  * Time :  2017/6/16
- * Description :
+ * Description : JsonRequest
  */
 
 public abstract class JsonCallback<T> extends Callback<T> {

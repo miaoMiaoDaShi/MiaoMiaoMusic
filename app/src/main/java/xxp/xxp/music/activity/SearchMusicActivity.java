@@ -34,6 +34,13 @@ import xxp.xxp.music.utils.ToastUtils;
 import xxp.xxp.music.utils.ViewUtils;
 import xxp.xxp.music.utils.binding.Bind;
 
+/**
+ * Created by Zcoder
+ * Email : 1340751953@qq.com
+ * Time :  2017/6/16
+ * Description : 搜索歌曲的页面
+ */
+
 public class SearchMusicActivity extends BaseActivity implements SearchView.OnQueryTextListener
         , AdapterView.OnItemClickListener, OnMoreClickListener {
     @Bind(R.id.lv_search_music_list)

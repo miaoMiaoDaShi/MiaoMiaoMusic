@@ -27,7 +27,7 @@ import xxp.xxp.music.utils.binding.Bind;
  * Created by Zcoder
  * Email : 1340751953@qq.com
  * Time :  2017/6/16
- * Description :
+ * Description : 歌曲列表  注意与本地音乐列表视图区分
  */
 
 public class SongListFragment extends BaseFragment implements AdapterView.OnItemClickListener {

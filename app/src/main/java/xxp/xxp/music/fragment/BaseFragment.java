@@ -17,7 +17,7 @@ import xxp.xxp.music.utils.permission.PermissionReq;
  * Created by Zcoder
  * Email : 1340751953@qq.com
  * Time :  2017/6/16
- * Description :
+ * Description : Fragment的基类
  */
 
 public abstract class BaseFragment extends Fragment {

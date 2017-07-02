@@ -12,7 +12,7 @@ import xxp.xxp.music.service.PlayService;
  * Created by Zcoder
  * Email : 1340751953@qq.com
  * Time :  2017/6/16
- * Description :
+ * Description : 远程媒体控制,比如耳机线控
  */
 
 public class RemoteControlReceiver extends BroadcastReceiver {

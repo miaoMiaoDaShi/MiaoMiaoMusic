@@ -44,7 +44,7 @@ import xxp.xxp.music.widget.IndicatorLayout;
  * Created by Zcoder
  * Email : 1340751953@qq.com
  * Time :  2017/6/16
- * Description :
+ * Description : 播放页面
  */
 
 public class PlayFragment extends BaseFragment implements View.OnClickListener,

@@ -24,6 +24,7 @@ import okhttp3.Call;
  */
 
 public class HttpClient {
+    private static final String TAG = "HttpClient";
     private static final String SPLASH_URL = "http://cn.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1";
     private static final String BASE_URL = "http://tingapi.ting.baidu.com/v1/restserver/ting";
     private static final String METHOD_GET_MUSIC_LIST = "baidu.ting.billboard.billList";
@@ -39,6 +40,10 @@ public class HttpClient {
     private static final String PARAM_TING_UID = "tinguid";
     private static final String PARAM_QUERY = "query";
 
+    /**
+     * 启动页面的壁纸相关
+     * @param callback 回调
+     */
     public static void getSplash(final HttpCallback<Splash> callback) {
         OkHttpUtils.get().url(SPLASH_URL).build()
                 .execute(new JsonCallback<Splash>(Splash.class) {
@@ -59,6 +64,13 @@ public class HttpClient {
                 });
     }
 
+    /**
+     * 下载文件
+     * @param url 连接
+     * @param destFileDir 目录
+     * @param destFileName 文件名
+     * @param callback 回调
+     */
     public static void downloadFile(String url, String destFileDir, String destFileName, final HttpCallback<File> callback) {
         OkHttpUtils.get().url(url).build()
                 .execute(new FileCallBack(destFileDir, destFileName) {
@@ -83,6 +95,13 @@ public class HttpClient {
                 });
     }
 
+    /**
+     * 获取歌曲列表信息
+     * @param type 传入类型编号
+     * @param size 返回的大小
+     * @param offset 偏移量
+     * @param callback 回调
+     */
     public static void getSongListInfo(String type, int size, int offset, final HttpCallback<OnlineMusicList> callback) {
         OkHttpUtils.get().url(BASE_URL)
                 .addParams(PARAM_METHOD, METHOD_GET_MUSIC_LIST)
@@ -108,6 +127,11 @@ public class HttpClient {
                 });
     }
 
+    /**
+     * 获取下载信息
+     * @param songId 歌曲id
+     * @param callback 回调
+     */
     public static void getMusicDownloadInfo(String songId, final HttpCallback<DownloadInfo> callback) {
         OkHttpUtils.get().url(BASE_URL)
                 .addParams(PARAM_METHOD, METHOD_DOWNLOAD_MUSIC)
@@ -131,6 +155,11 @@ public class HttpClient {
                 });
     }
 
+    /**
+     * 加载bitmap
+     * @param url 连接
+     * @param callback 回调
+     */
     public static void getBitmap(String url, final HttpCallback<Bitmap> callback) {
         OkHttpUtils.get().url(url).build()
                 .execute(new BitmapCallback() {
@@ -151,6 +180,11 @@ public class HttpClient {
                 });
     }
 
+    /**
+     * 获取歌词
+     * @param songId 歌曲id
+     * @param callback 回调
+     */
     public static void getLrc(String songId, final HttpCallback<Lrc> callback) {
         OkHttpUtils.get().url(BASE_URL)
                 .addParams(PARAM_METHOD, METHOD_LRC)
@@ -174,6 +208,11 @@ public class HttpClient {
                 });
     }
 
+    /**
+     * 搜索歌曲
+     * @param keyword 关键字
+     * @param callback 回调
+     */
     public static void searchMusic(String keyword, final HttpCallback<SearchMusic> callback) {
         OkHttpUtils.get().url(BASE_URL)
                 .addParams(PARAM_METHOD, METHOD_SEARCH_MUSIC)
@@ -197,6 +236,11 @@ public class HttpClient {
                 });
     }
 
+    /**
+     * 获取歌手信息
+     * @param tingUid 歌曲id
+     * @param callback 回调方法
+     */
     public static void getArtistInfo(String tingUid, final HttpCallback<ArtistInfo> callback) {
         OkHttpUtils.get().url(BASE_URL)
                 .addParams(PARAM_METHOD, METHOD_ARTIST_INFO)

@@ -32,7 +32,7 @@ import xxp.xxp.music.utils.Preferences;
  * Created by Zcoder
  * Email : 1340751953@qq.com
  * Time :  2017/6/16
- * Description :
+ * Description : 音乐播放服务
  */
 
 public class PlayService extends Service implements MediaPlayer.OnCompletionListener, AudioManager.OnAudioFocusChangeListener {
@@ -200,6 +200,7 @@ public class PlayService extends Service implements MediaPlayer.OnCompletionList
             playState = STATE_PLAYING;
             mHandler.post(mPublishRunnable);
             Notifier.showPlay(mPlayingMusic);
+            //请求得到音频焦点
             mAudioManager.requestAudioFocus(this, AudioManager.STREAM_MUSIC, AudioManager.AUDIOFOCUS_GAIN);
             registerReceiver(mNoisyReceiver, mNoisyFilter);
         }
@@ -342,6 +343,11 @@ public class PlayService extends Service implements MediaPlayer.OnCompletionList
         }
     };
 
+    /**
+     * 音频焦点发生改变
+     *
+     * @param focusChange
+     */
     @Override
     public void onAudioFocusChange(int focusChange) {
         switch (focusChange) {

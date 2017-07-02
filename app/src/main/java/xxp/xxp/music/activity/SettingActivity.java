@@ -8,6 +8,13 @@ import android.preference.PreferenceFragment;
 import xxp.xxp.music.R;
 import xxp.xxp.music.utils.ToastUtils;
 
+/**
+ * Created by Zcoder
+ * Email : 1340751953@qq.com
+ * Time :  2017/6/16
+ * Description : 设置页面
+ */
+
 public class SettingActivity extends BaseActivity {
 
     @Override
