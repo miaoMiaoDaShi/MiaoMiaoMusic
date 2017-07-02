@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:2:1-92:12
+ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:2:1-93:12
 	package
 		ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:3:5-28
 		INJECTED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml
@@ -54,7 +54,7 @@ ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:15:5-75
 	android:name
 		ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:15:22-72
 application
-ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:16:5-90:19
+ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:17:5-91:19
 MERGED from [com.android.support:design:25.3.1] D:\Zcoder\.android\build-cache\9061b980654090f68111ad1e6dbd6f3f48d2a4fa\output\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:appcompat-v7:25.3.1] D:\Zcoder\.android\build-cache\d1afc18c2d47d60a3bd5a12c2ad1c5b13caea36d\output\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:animated-vector-drawable:25.3.1] D:\Zcoder\.android\build-cache\d85595481b4abea338d0c17ae2b52a0e741ebb03\output\AndroidManifest.xml:26:5-20
@@ -68,138 +68,138 @@ MERGED from [com.android.support:support-core-utils:25.3.1] D:\Zcoder\.android\b
 MERGED from [com.android.support:support-compat:25.3.1] D:\Zcoder\.android\build-cache\f0b6da73c767f8c6701bcd2abfc1670bf6fb03c3\output\AndroidManifest.xml:29:5-20
 MERGED from [me.wcy:lrcview:1.4.2] D:\Zcoder\.android\build-cache\1b0ce6418937d94f716bcd0a4de19048caf0c212\output\AndroidManifest.xml:11:5-15:19
 	android:label
-		ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:20:9-41
+		ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:21:9-41
 	android:supportsRtl
 		ADDED from [me.wcy:lrcview:1.4.2] D:\Zcoder\.android\build-cache\1b0ce6418937d94f716bcd0a4de19048caf0c212\output\AndroidManifest.xml:14:9-35
 	android:allowBackup
-		ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:18:9-35
+		ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:19:9-35
 	android:icon
-		ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:19:9-43
+		ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:20:9-43
 	android:theme
-		ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:21:9-40
+		ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:22:9-40
 	android:name
-		ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:17:9-53
+		ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:18:9-53
 provider#android.support.v4.content.FileProvider
-ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:23:9-31:20
+ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:24:9-32:20
 	android:authorities
-		ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:25:13-64
+		ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:26:13-64
 		INJECTED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml
 	android:grantUriPermissions
-		ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:27:13-47
+		ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:28:13-47
 	android:exported
-		ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:26:13-37
+		ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:27:13-37
 	android:name
-		ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:24:13-67
+		ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:25:13-67
 meta-data#android.support.FILE_PROVIDER_PATHS
-ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:28:13-30:58
+ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:29:13-31:58
 	android:resource
-		ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:30:17-55
+		ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:31:17-55
 	android:name
-		ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:29:17-67
+		ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:30:17-67
 meta-data#com.amap.api.v2.apikey
-ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:33:9-35:64
+ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:34:9-36:64
 	android:value
-		ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:35:13-61
+		ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:36:13-61
 	android:name
-		ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:34:13-50
+		ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:35:13-50
 service#xxp.xxp.music.service.PlayService
-ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:37:9-69
+ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:38:9-69
 	android:name
-		ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:37:18-66
+		ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:38:18-66
 receiver#xxp.xxp.music.receiver.DownloadReceiver
-ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:39:9-43:20
+ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:40:9-44:20
 	android:name
-		ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:39:19-73
+		ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:40:19-73
 intent-filter#android.intent.action.DOWNLOAD_COMPLETE
-ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:40:13-42:29
+ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:41:13-43:29
 action#android.intent.action.DOWNLOAD_COMPLETE
-ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:41:17-82
+ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:42:17-82
 	android:name
-		ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:41:25-79
+		ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:42:25-79
 receiver#xxp.xxp.music.receiver.RemoteControlReceiver
-ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:45:9-49:20
+ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:46:9-50:20
 	android:name
-		ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:45:19-78
+		ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:46:19-78
 intent-filter#android.intent.action.MEDIA_BUTTON
-ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:46:13-48:29
+ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:47:13-49:29
 action#android.intent.action.MEDIA_BUTTON
-ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:47:17-77
+ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:48:17-77
 	android:name
-		ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:47:25-74
+		ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:48:25-74
 receiver#xxp.xxp.music.receiver.StatusBarReceiver
-ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:51:9-55:20
+ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:52:9-56:20
 	android:name
-		ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:51:19-74
-intent-filter#me.wcy.music.STATUS_BAR_ACTIONS
-ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:52:13-54:29
-action#me.wcy.music.STATUS_BAR_ACTIONS
-ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:53:17-74
+		ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:52:19-74
+intent-filter#STATUS_BAR_ACTIONS
+ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:53:13-55:29
+action#STATUS_BAR_ACTIONS
+ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:54:17-61
 	android:name
-		ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:53:25-71
+		ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:54:25-58
 activity#xxp.xxp.music.activity.SplashActivity
-ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:57:9-65:20
+ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:58:9-66:20
 	android:screenOrientation
-		ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:59:13-49
+		ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:60:13-49
 	android:name
-		ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:58:13-65
+		ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:59:13-65
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:60:13-64:29
+ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:61:13-65:29
 action#android.intent.action.MAIN
-ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:61:17-69
+ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:62:17-69
 	android:name
-		ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:61:25-66
+		ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:62:25-66
 category#android.intent.category.LAUNCHER
-ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:63:17-77
+ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:64:17-77
 	android:name
-		ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:63:27-74
+		ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:64:27-74
 activity#xxp.xxp.music.activity.MusicActivity
-ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:66:9-70:45
+ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:67:9-71:52
 	android:screenOrientation
-		ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:69:13-49
+		ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:71:13-49
 	android:label
-		ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:68:13-45
+		ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:69:13-45
 	android:launchMode
 		ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:70:13-43
 	android:name
-		ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:67:13-64
+		ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:68:13-64
 activity#xxp.xxp.music.activity.OnlineMusicActivity
-ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:71:9-73:52
+ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:72:9-74:52
 	android:screenOrientation
-		ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:73:13-49
+		ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:74:13-49
 	android:name
-		ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:72:13-70
+		ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:73:13-70
 activity#xxp.xxp.music.activity.ArtistInfoActivity
-ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:74:9-77:52
+ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:75:9-78:52
 	android:screenOrientation
-		ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:77:13-49
+		ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:78:13-49
 	android:label
-		ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:76:13-48
+		ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:77:13-48
 	android:name
-		ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:75:13-69
+		ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:76:13-69
 activity#xxp.xxp.music.activity.SearchMusicActivity
-ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:78:9-81:54
+ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:79:9-82:54
 	android:screenOrientation
-		ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:80:13-49
+		ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:81:13-49
 	android:theme
-		ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:81:13-51
+		ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:82:13-51
 	android:name
-		ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:79:13-70
+		ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:80:13-70
 activity#xxp.xxp.music.activity.SettingActivity
-ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:82:9-85:52
+ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:83:9-86:52
 	android:screenOrientation
+		ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:86:13-49
+	android:label
 		ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:85:13-49
-	android:label
-		ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:84:13-49
 	android:name
-		ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:83:13-66
+		ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:84:13-66
 activity#xxp.xxp.music.activity.AboutActivity
-ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:86:9-89:52
+ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:87:9-90:52
 	android:screenOrientation
-		ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:89:13-49
+		ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:90:13-49
 	android:label
-		ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:88:13-47
+		ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:89:13-47
 	android:name
-		ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:87:13-64
+		ADDED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml:88:13-64
 uses-sdk
 INJECTED from E:\MyAndroid\MiaoMiaoMusic\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support:design:25.3.1] D:\Zcoder\.android\build-cache\9061b980654090f68111ad1e6dbd6f3f48d2a4fa\output\AndroidManifest.xml:21:5-23:62
