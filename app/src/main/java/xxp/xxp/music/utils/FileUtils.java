@@ -28,7 +28,7 @@ public class FileUtils {
     private static final String LRC = ".lrc";
 
     private static String getAppDir() {
-        return Environment.getExternalStorageDirectory() + "/PonyMusic";
+        return Environment.getExternalStorageDirectory() + "/MiaoMiaoMusic";
     }
 
     public static String getMusicDir() {
